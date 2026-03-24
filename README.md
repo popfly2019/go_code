@@ -15,10 +15,10 @@
 - [x] 用户注册
 - [x] 用户登录
 - [x] 获取用户信息
-- [ ] JWT认证中间件
+- [x] JWT认证中间件
 
 ## 项目结构
-go_code/
+go_code
 ├── main.go # 入口文件
 ├── config/ # 配置文件
 ├── controller/ # 控制器层
