@@ -60,6 +60,6 @@ go run main.go
 
 | 接口 | 方法 | 路径 | 说明 |
 |------|------|------|------|
-| 注册 | POST | /api/register | 用户注册 |
-| 登录 | POST | /api/login | 用户登录 |
-| 获取信息 | GET | /api/user/info | 获取当前用户信息 |
+| 注册 | POST | /api/users/register | 用户注册 |
+| 登录 | POST | /api/users/login | 用户登录 |
+| 获取信息 | GET | /api/users/info | 获取当前用户信息 |
