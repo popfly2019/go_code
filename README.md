@@ -34,7 +34,7 @@ go_code/
 
 ### 1. 配置数据库
 
-复制 `config/config.example.yaml` 为 `config/config.yaml`，修改数据库连接信息：
+修改`config.yaml`参数，修改数据库连接信息：
 
 ```yaml
 database:
