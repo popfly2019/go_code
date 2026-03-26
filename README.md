@@ -22,10 +22,11 @@
 go_code/
 ├── main.go           # 入口文件
 ├── config/           # 配置文件
-├── controller/       # 控制器层
+├── handler/          # 数据处理层
 ├── service/          # 业务逻辑层
 ├── model/            # 数据模型层
 ├── middleware/       # 中间件
+├── pkg/              # 公共工具包
 └── go.mod            # 依赖管理
 ```
 
